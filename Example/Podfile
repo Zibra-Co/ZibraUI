@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZibraUI_Example' do
+  pod 'ZibraUI', :path => '../'
+
+  target 'ZibraUI_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

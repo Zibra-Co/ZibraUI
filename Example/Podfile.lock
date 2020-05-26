@@ -1,0 +1,16 @@
+PODS:
+  - ZibraUI (0.1.0)
+
+DEPENDENCIES:
+  - ZibraUI (from `../`)
+
+EXTERNAL SOURCES:
+  ZibraUI:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZibraUI: 13a83eb52abdc17516073a53c66127c1de56a6bf
+
+PODFILE CHECKSUM: e68e41dec117ec21ce1790280dda0e79e99eba91
+
+COCOAPODS: 1.9.1
