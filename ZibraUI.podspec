@@ -26,7 +26,7 @@ ZibraUI is a library that arrange visual components and extensions.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'macward' => 'ward.maximiliano@gmail.com' }
-  s.source           = { :git => 'https://github.com/Zibra-Co/ZibraUI.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:Zibra-Co/ZibraUI.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '13.0'
