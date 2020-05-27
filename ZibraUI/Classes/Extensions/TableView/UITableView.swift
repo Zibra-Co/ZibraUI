@@ -9,7 +9,7 @@
 import Foundation
 
 // MARK: - UITableView extension
-extension UITableView {
+public extension UITableView {
     /// Remove footer from table view
     func withClearFooter() {
         tableFooterView = UIView()

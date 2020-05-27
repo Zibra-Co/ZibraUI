@@ -9,7 +9,7 @@
 import UIKit
 
 // MARK: - <#Description#>
-extension UIScrollView {
+public extension UIScrollView {
 
     /// Return current page index
     ///

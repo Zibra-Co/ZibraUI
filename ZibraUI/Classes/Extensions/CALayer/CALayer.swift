@@ -9,7 +9,7 @@
 import UIKit
 
 // MARK: - CALayer extension
-extension CALayer {
+public extension CALayer {
 
     /// CALayer extension to add border
     ///
